@@ -1,0 +1,20 @@
+{
+    "log_path": "/var/log/sofa",
+    "player": "Office",
+    "xplayer": "Living Room",
+    "xplayer_id": "RINCON_B8E937938D1001400",
+    "player_id": "RINCON_B8E937ECE1F001400",
+    "starting_mode": "nowplaying",
+    "path": "/opt/sofa-countdown",
+    "event_time": "Jan 2 2019, 12:50:02PM",
+    "toggle_time": 60,
+    "pulse_time": 30,
+    "font_step": 50,
+    "not_playing_logo": "/opt/sofa-countdown/sonos.png",
+    "base_font_size": 600,
+    "font_file": "/opt/sofa-countdown/Roboto-Light.ttf",
+    "mqtt_server": "mqtt.server.com",
+    "mqtt_channel": "sofa/updates",
+    "mqtt_client_name": "disp",
+    "countdown_lock": 300
+}
